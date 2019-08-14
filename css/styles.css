@@ -1,0 +1,10 @@
+* {
+    block-size: border-box;
+}
+img {
+    max-width: 100%;
+}
+.center {
+    display: block;
+    margin: 10% auto;
+}
